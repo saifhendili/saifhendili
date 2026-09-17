@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Saif Hendili 👋
 
-<!--
-**saifhendili/saifhendili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Engineer** — React · Next.js · Node.js · TypeScript · NestJS  
+Founder of [Trackili](https://trackili.tn) · Based in Tunis · Open to remote & relocation (Europe / Canada)
 
-Here are some ideas to get you started:
+I build SaaS products and fast, scalable APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 **Trackili** — SaaS connecting Shopify stores and delivery companies in one dashboard: real-time order sync, automation, delivery analytics and per-order margins
+- ⚡ **ARTMO** (Hamburg, remote) — cut response time from 800ms to 320ms, integrated Ethereum payments and shipped a live-streaming feature that brought €30K+ in 6 months
+- 🏢 **Mirai Tech Solutions** — web & mobile SaaS for startups in healthcare, logistics and fintech
+
+### Tech stack
+- **Frontend:** React · Next.js · TypeScript · Redux · Tailwind CSS
+- **Backend:** Node.js · Express · NestJS · REST APIs · Socket.io
+- **Data:** MongoDB · PostgreSQL · Prisma · Redis
+- **DevOps:** Docker · CI/CD · GitHub Actions · AWS
+
+### Find me
+[LinkedIn](https://www.linkedin.com/in/saifhendili) · [Portfolio](https://saifhendili.netlify.app) · saifhendili12@gmail.com
